@@ -1,5 +1,5 @@
 # Rover
-Shell script to install a [Rover Coin asternode](http://rovercoin.io/) on a Linux server running Ubuntu 16.04. Use it on your own risk.
+Shell script to install a [Rover Coin Masternode](http://rovercoin.io/) on a Linux server running Ubuntu 16.04. Use it on your own risk.
 ***
 
 ## Installation
